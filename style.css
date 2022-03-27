@@ -1,0 +1,65 @@
+body {
+	background-color: rgb(233, 231, 212);
+}
+.name {
+	text-align: center;
+	color: rgb(7, 7, 7);
+}
+.img {
+	margin: 20px;
+	padding: 20px;
+	text-align: center;
+}
+.link {
+	margin: 0 auto;
+	font-size: 1.2em;
+	color: rgb(12, 12, 12);
+	border: solid 1px black;
+	max-width: 300px;
+	text-align: center;
+	background-color: rgb(218, 217, 208);
+	padding: 2px;
+}
+p {
+	color: rgb(10, 10, 10);
+}
+table {
+	width: 100%;
+}
+.table1 {
+	border: 2px solid black;
+	width: 21%;
+	border-collapse: collapse;
+	text-align: left;
+}
+th,
+td {
+	border: 1px solid black;
+	text-align: left;
+	padding: 10px;
+	color: rgb(12, 12, 12);
+	width: 330px;
+	min-width: 200px;
+}
+td {
+	text-align: center;
+}
+.type {
+	margin: 10px 10px;
+	min-width: 200px;
+	font-style: italic;
+	font-size: 1.2em;
+	border-bottom: 1.2px solid grey;
+	color: black;
+	width: 430px;
+	text-align: center;
+}
+a:hover {
+	color: red;
+}
+p {
+	padding: 0px 5px;
+}
+.flex {
+	display: flex;
+}
